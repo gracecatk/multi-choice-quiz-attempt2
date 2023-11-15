@@ -1,5 +1,7 @@
 
 # Challenge - 04 creating a functiong quiz about Java Script
+*PLEASE READ GRADER*
+this does not have nearly as many commits as my first attempt, I could not use/update the old repo for some reason so had to copy all my old code and paste it here.
 
 this is a multiple choice quiz to test your knowledge on java script.
 ## Table of Contents
@@ -14,7 +16,7 @@ this is a multiple choice quiz to test your knowledge on java script.
 
 ## Description
 
-Many new and upcoming developers are on the rise and learning java script as it is a essential tool in front end development and software development in general so here is a small quiz to test your knowledge on the subject!
+This is a quiz made with javascript 
 
 ## Features 
 With this JS quiz you can:
@@ -23,9 +25,10 @@ With this JS quiz you can:
 - beware of choosing the wrong answer as you are timed and any mistake made will impact the amount of time left.
 
 ## link to deployed website
-https://niccbytes.github.io/JS-Quiz/
+
 
 ## photo
-![jsquiz](https://github.com/niccbytes/JS-Quiz/assets/140906373/78709c15-5d70-409f-9387-667bf0f3239a)
+![image](https://github.com/gracecatk/multi-choice-quiz-attempt2/assets/140928469/88ba06f6-e6a6-4767-bc79-1ce8244f2a3d)
+
 
 
